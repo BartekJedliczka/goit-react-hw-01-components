@@ -1,5 +1,5 @@
-import css from "./Profile.module.css";
-import PropTypes from "prop-types";
+import css from './Profile.module.css';
+import PropTypes from 'prop-types';
 
 const Profile = ({ username, tag, location, avatar, stats }) => {
   return (
@@ -37,7 +37,7 @@ Profile.propTypes = {
     followers: PropTypes.number,
     views: PropTypes.number,
     likes: PropTypes.number,
-  })
-}
+  }),
+};
 
 export default Profile;
