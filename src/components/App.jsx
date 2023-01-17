@@ -1,8 +1,8 @@
-import Profile from './profile/Profile';
-import user from './profile/user.json';
+import Profile from './Profile/Profile';
+import user from './Profile/user.json';
 
-import Statistics from './statistics/Statistics';
-import data from './statistics/data.json';
+import Statistics from './Statistics/Statistics';
+import data from './Statistics/data.json';
 
 import FriendList from './FriendList/FriendList';
 import friends from './FriendList/friends.json';
